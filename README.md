@@ -1,0 +1,2 @@
+# comand-verus
+comand build
